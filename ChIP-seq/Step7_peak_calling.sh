@@ -13,6 +13,6 @@ macs3 callpeak -t DRR235311.bam  -c DRR235310.bam -n WT_H3K4me1_2 -f BAM -g 1.3e
 ../../peakcalling/normdup --bdg -q 0.01
 # *.bed is where we observe the peaks
 Wc -l *.bed
-done
+
 
 
